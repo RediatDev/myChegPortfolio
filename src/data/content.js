@@ -29,7 +29,8 @@ export const profile = {
   portrait: img("me/portrait-bw.webp"),
   portraitFormal: img("me/formal.webp"),
   labSite: "https://ecrkrl.netlify.app/",
-  formspree: "https://formspree.io/f/xpwljeba",
+  formspree: "https://formspree.io/f/mvkkvbkl",
+
   socials: [
     { name: "LinkedIn", href: "https://www.linkedin.com/feed/" }, // TODO: replace with your profile URL
     { name: "Facebook", href: "https://www.facebook.com/rediat.terefe/" },
